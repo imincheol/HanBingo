@@ -1,0 +1,5 @@
+{
+  "name": "Han-Bingo (한빙고)",
+  "description": "A strategic multiplayer Hanja (Korean Chinese characters) Bingo game powered by Gemini AI. Compete against AI, peek at hidden cards, and solve quizzes to claim your tiles.",
+  "requestFramePermissions": []
+}
